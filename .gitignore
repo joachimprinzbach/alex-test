@@ -5,3 +5,5 @@
 /out/
 *.iws
 node_modules
+npm-debug.log
+dist

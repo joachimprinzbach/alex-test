@@ -1,6 +1,6 @@
 var path = require('path');
 
-modulex.exports = {
+module.exports = {
 
     entry: './index.js',
 
