@@ -4,3 +4,4 @@
 .idea/libraries
 /out/
 *.iws
+node_modules
