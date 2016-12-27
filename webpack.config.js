@@ -4,11 +4,11 @@ var ZipPlugin = require('zip-webpack-plugin');
 module.exports = {
 
     entry: {
-        'app': './index.js'
+        'app': './src/index.js'
     },
 
     output: {
-        filename: '[name].bundle.js',
+        filename: 'index.js',
         path: path.join(__dirname, 'dist')
     },
 
